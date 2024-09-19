@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/events-registration-app/static/css/main.07d32de8.css",
+    "main.js": "/events-registration-app/static/js/main.53eb954e.js",
+    "static/css/441.f148c65b.chunk.css": "/events-registration-app/static/css/441.f148c65b.chunk.css",
+    "static/js/441.061ef81c.chunk.js": "/events-registration-app/static/js/441.061ef81c.chunk.js",
+    "static/js/553.5a029c46.chunk.js": "/events-registration-app/static/js/553.5a029c46.chunk.js",
+    "static/js/458.8fc4fda4.chunk.js": "/events-registration-app/static/js/458.8fc4fda4.chunk.js",
+    "index.html": "/events-registration-app/index.html",
+    "main.07d32de8.css.map": "/events-registration-app/static/css/main.07d32de8.css.map",
+    "main.53eb954e.js.map": "/events-registration-app/static/js/main.53eb954e.js.map",
+    "441.f148c65b.chunk.css.map": "/events-registration-app/static/css/441.f148c65b.chunk.css.map",
+    "441.061ef81c.chunk.js.map": "/events-registration-app/static/js/441.061ef81c.chunk.js.map",
+    "553.5a029c46.chunk.js.map": "/events-registration-app/static/js/553.5a029c46.chunk.js.map",
+    "458.8fc4fda4.chunk.js.map": "/events-registration-app/static/js/458.8fc4fda4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07d32de8.css",
+    "static/js/main.53eb954e.js"
+  ]
+}

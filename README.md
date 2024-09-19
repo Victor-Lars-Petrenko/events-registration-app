@@ -31,7 +31,7 @@ seamless and intuitive.
 ## Installation and Running
 
 1. Clone the repository: git clone
-   https://github.com/yourusername/easycampervan.git
-2. Navigate to the project directory: cd easy-campervan
+   https://github.com/yourusername/events-registration-app.git
+2. Navigate to the project directory: cd events-registration-app
 3. Install dependencies: npm install
 4. Start the development server: npm start

@@ -1,0 +1,21 @@
+.catalog {
+  display: flex;
+  align-items: start;
+  gap: 64px;
+  padding: 100px 64px;
+}
+
+.nothingWrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 358px;
+  width: 888px;
+}
+
+.nothingText {
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 125%;
+  color: var(--accessory-color);
+}
